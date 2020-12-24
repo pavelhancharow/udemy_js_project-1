@@ -17,6 +17,7 @@
 
 1. **To run the project write in the command line:**
    ```shell
+   $ npm i
    $ gulp
    ```
 
